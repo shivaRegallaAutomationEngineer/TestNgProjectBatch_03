@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34883" started-at="2020-04-04T16:53:21Z" finished-at="2020-04-04T16:53:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34883" started-at="2020-04-04T16:53:21Z" finished-at="2020-04-04T16:53:56Z">
+      <class name="com.infosys.netBanking.testCases.TC_001">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infosys.netBanking.testCases.TC_001@548b7f67]" name="setUp" is-config="true" duration-ms="20328" started-at="2020-04-04T16:53:21Z" finished-at="2020-04-04T16:53:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_001_newCustomerRegistration()[pri:0, instance:com.infosys.netBanking.testCases.TC_001@548b7f67]" name="test_001_newCustomerRegistration" duration-ms="13978" started-at="2020-04-04T16:53:42Z" finished-at="2020-04-04T16:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_001_newCustomerRegistration -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infosys.netBanking.testCases.TC_001@548b7f67]" name="tearDown" is-config="true" duration-ms="225" started-at="2020-04-04T16:53:56Z" finished-at="2020-04-04T16:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.infosys.netBanking.testCases.TC_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
