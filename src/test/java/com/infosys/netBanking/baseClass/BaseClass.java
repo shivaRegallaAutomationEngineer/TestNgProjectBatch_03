@@ -11,6 +11,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public abstract class BaseClass  {
 
+
+
 	public static WebDriver driver=null;
 	public static WebDriverWait wait;
 	public static WebElement wElement;
