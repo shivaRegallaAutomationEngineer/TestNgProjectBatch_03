@@ -16,6 +16,7 @@ public abstract class BaseClass  {
 	public static WebDriver driver=null;
 	public static WebDriverWait wait;
 	public static WebElement wElement;
+	public static WebElement wElement1;
 	public static Logger logger;
 	public  BaseClass(WebDriver driver){
 		BaseClass.driver = driver;
